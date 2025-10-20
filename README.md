@@ -1,15 +1,4 @@
 
-<div align="center">
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/WedsonTavares/landin-barber)
-  ![GitHub stars](https://img.shields.io/github/stars/WedsonTavares/landin-barber?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/WedsonTavares/landin-barber?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/wedsontavares?style=social)](https://twitter.com/intent/follow?screen_name=wedsontavares)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/pIgMTd8ZFxY?style=social)](https://youtu.be/pIgMTd8ZFxY)
-
-  <br />
-  <br />
-
   <h2 align="center">Barbearia — Landing Page</h2>
 
   Página de demonstração totalmente responsiva para uma barbearia. Desenvolvida com HTML, CSS e JavaScript.
@@ -21,7 +10,7 @@
 
 <h1 align="center">Barbearia — Landing Page (Frontend)</h1>
 
-Este projeto é uma landing page para uma barbearia. Foi traduzido e adaptado para Português (pt-BR): textos, contatos e preços atualizados.
+Este projeto é uma landing page para uma barbearia.
 
 ---
 
@@ -148,5 +137,3 @@ git push -u origin main
 Projeto livre para estudo e uso pessoal. Inclua atribuição se compartilhar publicamente.
 
 ---
-
-> README atualizado: tradução para pt-BR, badges apontando para o repositório do usuário e instruções de execução.
