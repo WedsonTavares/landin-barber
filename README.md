@@ -133,7 +133,7 @@ git push -u origin main
 ## Contato
 
 - LinkedIn: <a href="https://www.linkedin.com/in/wedsontavares/" target="_blank" rel="noopener">https://www.linkedin.com/in/wedsontavares/</a>
-- Email: contato@barbeariaexemplo.com
+- Email: wedsonsobral@gmail.com
 
 ---
 
