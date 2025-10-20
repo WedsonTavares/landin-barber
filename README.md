@@ -3,7 +3,7 @@
 
   Página de demonstração totalmente responsiva para uma barbearia. Desenvolvida com HTML, CSS e JavaScript.
 
-  <a href="https://wedsontavares.github.io/landin-barber/" target="_blank" rel="noopener"><strong>➥ Live Demo</strong></a>
+  <a href="https://wedsontavares.github.io/landin-barber/" target="_blank" rel="noopener"><strong>➥ Ver Demonstração</strong></a>
 
 </div>
 
