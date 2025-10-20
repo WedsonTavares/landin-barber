@@ -1,0 +1,195 @@
+Barber - Barbers & Hair Cutting
+This is a barber html template made by codewithsadee
+Barbearia - Cortes e Barbearia
+Template de site para barbearia — cortes, barba e serviços de beleza.
+
+
+#---------- CABEÇALHO ----------#
+
+Ligue para:
+16 99233-1680
+
+Horário de Atendimento :
+Domingo - Sexta, 08:00 - 21:00
+
+Redes Sociais: facebook, twitter, youtube, chat
+
+Barbearia
+Salão
+
+Início
+Serviços
+Preços
+Galeria
+Agendamento
+Contato
+
+aria-label="toggle menu"
+menu (ícone)
+
+Agendar
+
+
+
+#---------- HERO (BANNER) ----------#
+
+Barbeiros e Cortes de Cabelo
+
+Atendimento profissional em cortes, barba e cuidados capilares. Estilo e precisão para o seu visual.
+
+Conheça Nossos Serviços
+
+
+#---------- SERVIÇOS ----------#
+
+Serviços que Oferecemos
+
+Serviços profissionais de barbearia e salão: cortes, barba, coloração e tratamentos.
+
+Estilo de Corte de Cabelo
+
+Cortes personalizados para seu estilo, com acabamento profissional.
+
+Lavagem de Cabelo
+
+Lavagem e tratamento capilar para saúde e brilho dos fios.
+
+Tratamentos Corporais
+
+Tratamentos relaxantes e revitalizantes para o corpo.
+
+Beleza e Spa
+
+Serviços de spa e beleza para complementar seu visual.
+
+Barba Estilizada
+
+Design e modelagem de barba com produtos de qualidade.
+
+Coloração de Cabelo
+
+Técnicas de coloração para resultados vibrantes e duradouros.
+
+
+#---------- PREÇOS ----------#
+
+Nossos Planos de Preços
+
+Escolha o serviço ideal para você — planos claros e preços competitivos.
+
+Filtros: Todos, Beleza e Spa, Massagens, Limpeza Facial, Meditação, Barba
+
+Hair Cutting & Fitting -> Corte e Ajuste
+Serviço de 30–40 minutos
+$89
+
+Barba e Tratamento Facial
+$45
+
+Coloração e Lavagem
+$35
+
+Massagem Corporal
+$56
+
+Beleza e Spa
+$27
+
+Facial e Limpeza
+$63
+
+Massagem nas Costas
+$43
+
+Meditação e Massagem
+$74
+
+
+#---------- GALERIA ----------#
+
+Galeria de Fotos
+
+Confira alguns exemplos do nosso trabalho — cortes e estilos realizados por nossa equipe.
+
+Ver Mais da Galeria
+
+Corte de Cabelo
+
+Serviços de barbearia e salão
+
+
+#---------- AGENDAMENTO ----------#
+
+Agendar Atendimento
+
+Preencha o formulário para agendar seu horário conosco.
+
+placeholder = Seu Nome Completo
+placeholder = Endereço de Email
+placeholder = Telefone
+
+Selecione a categoria
+Beleza e Spa
+Massagem Corporal
+Barba e Facial
+Coloração de Cabelo
+
+placeholder = Escreva sua mensagem
+
+Agendar Agora
+
+
+#---------- RODAPÉ ----------#
+
+Barbearia
+Salão
+
+placeholder = Digite seu email
+
+Assine agora
+
+Links Rápidos
+
+Nossos Serviços
+Conheça a Equipe
+Nosso Portfólio
+Trabalhe Conosco
+Notícias e Blog
+
+Serviços
+
+Cortes de Cabelo
+Barba e Design
+Coloração
+Beleza e Spa
+Massagens Corporais
+
+Notícias Recentes
+
+Guia para Iniciantes: Henna Brows
+25 de agosto de 2022
+
+Como eliminar pelos indesejados no rosto?
+
+Fale Conosco
+
+Rua Exemplo, 123 - Centro, São Paulo, SP
+
+16 99233-1680
+
+Dom - Sex, 08:00 - 21:00
+
+contato@barbeariaexemplo.com
+
+© 2025 codewithsadee. Todos os direitos reservados.
+
+
+
+#---------- VOLTAR AO TOPO ----------#
+
+aria-label="back to top"
+
+chevron-up (ícone)
+aria-label="back to top"
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
