@@ -29,7 +29,7 @@ Este projeto é uma landing page para uma barbearia.
 ---
 
 
-## Demonstracao
+## Demonstração
 
 Abra `index.html` diretamente no navegador ou rode um servidor estático local para testar.
 
@@ -121,7 +121,7 @@ git push -u origin main
 
 ---
 
-## Contribuicao
+## Contribuição
 
 1. Faça um fork
 2. Crie uma branch: `git checkout -b minha-mudanca`
@@ -137,7 +137,7 @@ git push -u origin main
 
 ---
 
-## Licenca
+## Licença
 
 Projeto livre para estudo e uso pessoal. Inclua atribuição se compartilhar publicamente.
 
