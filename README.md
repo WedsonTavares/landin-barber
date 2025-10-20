@@ -28,15 +28,17 @@ Este projeto é uma landing page para uma barbearia.
 
 ---
 
-## Demonstração
+
+## Demonstracao
 
 Abra `index.html` diretamente no navegador ou rode um servidor estático local para testar.
 
 Se quiser publicar, recomendo usar o GitHub Pages (branch `main` ou `gh-pages`).
 
-Visualizar Demo: https://wedsontavares.github.io/landin-barber/
 
-Repositório: https://github.com/WedsonTavares/landin-barber
+Visualizar Demo: <a href="https://wedsontavares.github.io/landin-barber/" target="_blank" rel="noopener">https://wedsontavares.github.io/landin-barber/</a>
+
+Repositório: <a href="https://github.com/WedsonTavares/landin-barber" target="_blank" rel="noopener">https://github.com/WedsonTavares/landin-barber</a>
 
 
 ---
@@ -81,7 +83,7 @@ python3 -m http.server 8000
 
 ---
 
-## Commit & Push — passo a passo
+## Commit e Push — passo a passo
 
 Use estes comandos para commitar e enviar as alterações ao remoto (assume a branch `main`):
 
@@ -109,7 +111,7 @@ git push -u origin main
 
 ---
 
-## Estrutura do projeto (resumida)
+## Estrutura do projeto
 
 - `index.html` — página principal (texto em pt-BR)
 - `index.txt` — referência com todos os textos do site (pt-BR)
@@ -119,7 +121,7 @@ git push -u origin main
 
 ---
 
-## Contribuição
+## Contribuicao
 
 1. Faça um fork
 2. Crie uma branch: `git checkout -b minha-mudanca`
@@ -130,12 +132,12 @@ git push -u origin main
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/wedsontavares/
+- LinkedIn: <a href="https://www.linkedin.com/in/wedsontavares/" target="_blank" rel="noopener">https://www.linkedin.com/in/wedsontavares/</a>
 - Email: contato@barbeariaexemplo.com
 
 ---
 
-## Licença
+## Licenca
 
 Projeto livre para estudo e uso pessoal. Inclua atribuição se compartilhar publicamente.
 
