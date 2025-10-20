@@ -34,7 +34,10 @@ Abra `index.html` diretamente no navegador ou rode um servidor estático local p
 
 Se quiser publicar, recomendo usar o GitHub Pages (branch `main` ou `gh-pages`).
 
+Visualizar Demo: https://wedsontavares.github.io/landin-barber/
+
 Repositório: https://github.com/WedsonTavares/landin-barber
+
 
 ---
 
